@@ -1,69 +1,119 @@
-Another WolfCop
-Psychopaths
-Slumber
-Beyond Skyline
-Bye Bye Man
-Split
-Resident Evil The Final Chapter
-Rings
-A Cure For Wellness
-XX
-getoutver2
-Raw
-The Belko Experiment
-The Blackcoats Daughter
-The Transfiguration
-7 Witches
-Phoenix Forgotten
-Another Evil
-Dead Awake
-Dark Signal
-Camera Obscura
-It Comes At Night
-47 Meters Down
-A Beginners Guide To Snuff
-Fireangels A Drifters Fury
-Darkness Rising
-Wish Upon
-Gracefield Incident
-The Untamed
-It Stains The Sands Red
-Armed Response
-Lycan
-The Dark Tower
-annabellecreationver2
-Bedeviled
-open water 3
-Dave Made A Maze
-The Ice Cream Truck Movie
-Monster Project
-Ghost House
-Red Christmas Movie
-Jackals
-The Vault
-Circus Kane
-It 2017
-The Limehouse Golem Movie
-Mother
-Ryde Movie
-Friend Request
-Welcome To Willits
-Dont Sleep
-Flatliners 2017
-The Sound
-Cold Moon
-Crucifixion
-The Osiris Child
-Happy Death Day
-Night Of The Living Dead 4K
-Old Dark House 2017 Rerelease
-Leatherface
-Let Her Out
-killingofasacreddeer
-Tragedy Girls
-Jigsaw
-amityvilletheawakening
-My Friend Dahmer
-I Remember You
-Mayhem
-Angelica
+Movie,URL
+Bye Bye Man,http://www.boxofficemojo.com/movies/?page=weekly&id=thebyebyeman.htm
+Split,http://www.boxofficemojo.com/movies/?page=weekly&id=split2017.htm
+Rings,http://www.boxofficemojo.com/movies/?page=weekly&id=rings.htm
+A Cure For Wellness,http://www.boxofficemojo.com/movies/?page=weekly&id=acureforwellness.htm
+Get Out,http://www.boxofficemojo.com/movies/?page=weekly&id=blumhouse2.htm
+Raw,http://www.boxofficemojo.com/movies/?page=weekly&id=raw2017.htm
+The Belko Experiment,http://www.boxofficemojo.com/movies/?page=weekly&id=blumhousetilt2017.htm
+Phoenix Forgotten,http://www.boxofficemojo.com/movies/?page=weekly&id=phoenix2017.htm
+It Comes At Night,http://www.boxofficemojo.com/movies/?page=weekly&id=itcomesatnight.htm
+47 Meters Down,http://www.boxofficemojo.com/movies/?page=weekly&id=47metersdown.htm
+Wish Upon,http://www.boxofficemojo.com/movies/?page=weekly&id=wishupon.htm
+It,http://www.boxofficemojo.com/movies/?page=weekly&id=it.htm
+Mother,http://www.boxofficemojo.com/movies/?page=weekly&id=mother2017.htm
+Friend Request,http://www.boxofficemojo.com/movies/?page=weekly&id=friendrequest.htm
+Flatliners,http://www.boxofficemojo.com/movies/?page=weekly&id=flatliners2017.htm
+Happy Death Day,http://www.boxofficemojo.com/movies/?page=weekly&id=blumhousehorror2018.htm
+Killing Of A Sacred Deer,http://www.boxofficemojo.com/movies/?page=weekly&id=killingofasacreddeer.htm
+Saw 6,http://www.boxofficemojo.com/movies/?page=weekly&id=saw6.htm
+Saw 3D,http://www.boxofficemojo.com/movies/?page=weekly&id=saw7.htm
+Jigsaw,http://www.boxofficemojo.com/movies/?page=weekly&id=saw2017.htm
+The Forest,http://www.boxofficemojo.com/movies/?page=weekly&id=forest.htm
+The Boy,http://www.boxofficemojo.com/movies/?page=weekly&id=boy2016.htm
+The Witch,http://www.boxofficemojo.com/movies/?page=weekly&id=thewitch.htm
+The Other Side of the Door,http://www.boxofficemojo.com/movies/?page=weekly&id=othersideofthedoor.htm
+The Invitation,http://www.boxofficemojo.com/movies/?page=weekly&id=theinvitation.htm
+Green Room,http://www.boxofficemojo.com/movies/?page=weekly&id=greenroom.htm
+The Conjuring,http://www.boxofficemojo.com/movies/?page=weekly&id=conjuring.htm
+The Conjuring 2,http://www.boxofficemojo.com/movies/?page=weekly&id=conjuring2.htm
+The Purge,http://www.boxofficemojo.com/movies/?page=weekly&id=purge.htm
+The Purge 2,http://www.boxofficemojo.com/movies/?page=weekly&id=purge2.htm
+The Purge 3,http://www.boxofficemojo.com/movies/?page=weekly&id=purge3.htm
+Lights Out,http://www.boxofficemojo.com/movies/?page=weekly&id=newline0116.htm
+Ouija,http://www.boxofficemojo.com/movies/?page=weekly&id=ouija.htm
+Ouija 2,http://www.boxofficemojo.com/movies/?page=weekly&id=blumhouse3.htm
+It Follows,http://www.boxofficemojo.com/movies/?page=weekly&id=itfollows.htm
+Unfriended,http://www.boxofficemojo.com/movies/?page=weekly&id=cybernatural.htm
+Poltergeist,http://www.boxofficemojo.com/movies/?page=weekly&id=poltergeist2015.htm
+Insidious,http://www.boxofficemojo.com/movies/?page=weekly&id=insidious.htm
+Insidious Chapter 2,http://www.boxofficemojo.com/movies/?page=weekly&id=insidious2.htm
+Insidious Chapter 3,http://www.boxofficemojo.com/movies/?page=weekly&id=insidiouschapter3.htm
+The Gallows,http://www.boxofficemojo.com/movies/?page=weekly&id=newlinehorror2015.htm
+The Vatican Tapes,http://www.boxofficemojo.com/movies/?page=weekly&id=vaticantapes.htm
+Sinister,http://www.boxofficemojo.com/movies/?page=weekly&id=sinister.htm
+Sinister 2,http://www.boxofficemojo.com/movies/?page=weekly&id=sinister2.htm
+The Visit,http://www.boxofficemojo.com/movies/?page=weekly&id=blumhouse2015.htm
+The Green Inferno,http://www.boxofficemojo.com/movies/?page=weekly&id=greeninferno.htm
+Crimson Peak,http://www.boxofficemojo.com/movies/?page=weekly&id=crimsonpeak.htm
+Paranormal Activity,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity.htm
+Paranormal Activity 2,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity2.htm
+Paranormal Activity 3,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity3.htm
+Paranormal Activity 4,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity4.htm
+Paranormal Activity 5,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity5.htm
+Paranormal Activity 6,http://www.boxofficemojo.com/movies/?page=weekly&id=paranormalactivity2014.htm
+Krampus,http://www.boxofficemojo.com/movies/?page=weekly&id=krampus.htm
+Annabelle,http://www.boxofficemojo.com/movies/?page=weekly&id=newlinehorror.htm
+Annabelle 2,http://www.boxofficemojo.com/movies/?page=weekly&id=annabelle2.htm
+Resident Evil 4,http://www.boxofficemojo.com/movies/?page=weekly&id=residentevil4.htm
+Resident Evil 5,http://www.boxofficemojo.com/movies/?page=weekly&id=residentevil5.htm
+Resident Evil 6,http://www.boxofficemojo.com/movies/?page=weekly&id=residentevil6.htm
+Oculus,http://www.boxofficemojo.com/movies/?page=weekly&id=oculus.htm
+Deliver Us From Evil,http://www.boxofficemojo.com/movies/?page=weekly&id=bewarethenight.htm
+The Babadook,http://www.boxofficemojo.com/movies/?page=weekly&id=babadook.htm
+Alien Covenant,http://www.boxofficemojo.com/movies/?page=weekly&id=alienparadiselost.htm
+Don't Breathe,http://www.boxofficemojo.com/movies/?page=weekly&id=dontbreathe.htm
+Blair Witch,http://www.boxofficemojo.com/movies/?page=weekly&id=woods2016.htm
+The Darkness,http://www.boxofficemojo.com/movies/?page=weekly&id=bhtilt2016.htm
+Devil's Due,http://www.boxofficemojo.com/movies/?page=weekly&id=devilsdue.htm
+Woman in Black,http://www.boxofficemojo.com/movies/?page=weekly&id=womaninblack.htm
+Woman in Black 2,http://www.boxofficemojo.com/movies/?page=weekly&id=womaninblack2.htm
+The Quiet Ones,http://www.boxofficemojo.com/movies/?page=weekly&id=quietones.htm
+The Pyramid,http://www.boxofficemojo.com/movies/?page=weekly&id=pyramid.htm
+Mama,http://www.boxofficemojo.com/movies/?page=weekly&id=mama.htm
+Evil Dead,http://www.boxofficemojo.com/movies/?page=weekly&id=evildead2013.htm
+Carrie,http://www.boxofficemojo.com/movies/?page=weekly&id=carrie2013.htm
+You're Next,http://www.boxofficemojo.com/movies/?page=weekly&id=yourenext.htm
+Texas Chainsaw 3D,http://www.boxofficemojo.com/movies/?page=weekly&id=texaschainsaw3d.htm
+Lords of Salem,http://www.boxofficemojo.com/movies/?page=weekend&id=lordsofsalem.htm
+The Last Exorcism,http://www.boxofficemojo.com/movies/?page=weekly&id=lastexorcism.htm
+The Last Exorcism 2,http://www.boxofficemojo.com/movies/?page=weekly&id=lastexorcism2.htm
+The Devil Inside,http://www.boxofficemojo.com/movies/?page=weekly&id=devilinside.htm
+The Possession,http://www.boxofficemojo.com/movies/?page=weekly&id=dibbukbox.htm
+House at the End of the Street,http://www.boxofficemojo.com/movies/?page=weekly&id=houseattheendofthestreet.htm
+Chernobyl Diaries,http://www.boxofficemojo.com/movies/?page=weekly&id=chernobyldiaries.htm
+Silent Hill 2,http://www.boxofficemojo.com/movies/?page=weekly&id=silenthill2.htm
+Silent House,http://www.boxofficemojo.com/movies/?page=weekly&id=silenthouse.htm
+The Collection,http://www.boxofficemojo.com/movies/?page=weekly&id=collection.htm
+The Apparition,http://www.boxofficemojo.com/movies/?page=weekly&id=apparition.htm
+Final Destination 4,http://www.boxofficemojo.com/movies/?page=weekly&id=finaldestination4.htm
+Final Destination 5,http://www.boxofficemojo.com/movies/?page=weekly&id=finaldestination5.htm
+Scream 4,http://www.boxofficemojo.com/movies/?page=weekly&id=scream4.htm
+The Rite,http://www.boxofficemojo.com/movies/?page=weekly&id=rite.htm
+Priest,http://www.boxofficemojo.com/movies/?page=weekly&id=priest07.htm
+Don't Be Afraid of the Dark,http://www.boxofficemojo.com/movies/?page=weekly&id=dontbeafraidofthedark.htm
+Dream House,http://www.boxofficemojo.com/movies/?page=weekly&id=dreamhouse.htm
+Shark Night 3D,http://www.boxofficemojo.com/movies/?page=weekly&id=shark3d.htm
+Fright Night,http://www.boxofficemojo.com/movies/?page=weekly&id=frightnight2011.htm
+The Thing,http://www.boxofficemojo.com/movies/?page=weekly&id=thing11.htm
+A Nightmare on Elm Street,http://www.boxofficemojo.com/movies/?page=weekly&id=nightmareonelmstreet10.htm
+The Wolfman,http://www.boxofficemojo.com/movies/?page=weekly&id=wolfman.htm
+The Crazies,http://www.boxofficemojo.com/movies/?page=weekly&id=crazies.htm
+Devil,http://www.boxofficemojo.com/movies/?page=weekly&id=nightchroniclesdevil.htm
+Daybreakers,http://www.boxofficemojo.com/movies/?page=weekly&id=daybreakers.htm
+Piranha 3D,http://www.boxofficemojo.com/movies/?page=weekly&id=piranha3d.htm
+Splice,http://www.boxofficemojo.com/movies/?page=weekly&id=splice.htm
+My Soul to Take,http://www.boxofficemojo.com/movies/?page=weekly&id=mysoultotake.htm
+Case 39,http://www.boxofficemojo.com/movies/?page=weekly&id=case39.htm
+Friday the 13th,http://www.boxofficemojo.com/movies/?page=weekly&id=fridaythe13th09.htm
+The Haunting in Connecticut,http://www.boxofficemojo.com/movies/?page=weekly&id=hauntinginconnecticut.htm
+My Bloody Valentine 3D,http://www.boxofficemojo.com/movies/?page=weekly&id=mybloodyvalentine09.htm
+The Unborn,http://www.boxofficemojo.com/movies/?page=weekly&id=unborn09.htm
+Drag Me to Hell,http://www.boxofficemojo.com/movies/?page=weekly&id=dragmetohell.htm
+Cabin in the Woods,http://www.boxofficemojo.com/movies/?page=weekly&id=cabininthewoods.htm
+Halloween 2,http://www.boxofficemojo.com/movies/?page=weekly&id=halloween209.htm
+Last House on the Left,http://www.boxofficemojo.com/movies/?page=weekly&id=lasthouseontheleft09.htm
+The Uninvited,http://www.boxofficemojo.com/movies/?page=weekly&id=uninvited.htm
+Sorority Row,http://www.boxofficemojo.com/movies/?page=weekly&id=sororityrow.htm
+Pandorum,http://www.boxofficemojo.com/movies/?page=weekly&id=pandorum.htm
+The Collector,http://www.boxofficemojo.com/movies/?page=weekly&id=collector09.htm
